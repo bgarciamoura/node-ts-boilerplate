@@ -15,6 +15,7 @@
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.6",
+		"eslint": "^7.3.0",
 		"ts-node-dev": "^1.0.0-pre.49",
 		"tsconfig-paths": "^3.9.0",
 		"typescript": "^3.9.5"
